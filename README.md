@@ -2,6 +2,7 @@
 
 - 👨‍🎓 I’m a Mechatronic Engineering from UnCuyo ([UNCUYO](https://ingenieria.uncuyo.edu.ar/)).
 - 📚 I have a deep orientation to software development and technological innovation. During my career I have had the opportunity to work on data projects in the main companies in Argentina where I have been able to exploit my skills in software development, data engineering and data science. I consider that my greatest ability and the one that has led to my rapid growth is my ability to learn.
+- 👨‍💻 Currently working as a Machine Learning Engineer at <a target="_blank" href="https://www.mercadolibre.com.ar/">Mercado Libre</a>
 
 ####  My Mission🌄
 - Leveraging our current state-of-the-art and existing technologies, creating products that can help the world while interacting with like-minded people who share this vision, learning together. 
